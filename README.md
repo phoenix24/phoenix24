@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋🏾 
+
+I'm Chaitanya, Open Source Contributor and Professional Yak Shaver. I also like Python, GoLang & Rust and Love building stuff!
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phoenix24&show_icons=true&include_all_commits=true&hide_border=true" alt="phoenix24's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix24&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 <!--
 **phoenix24/phoenix24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
