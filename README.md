@@ -1,34 +1,30 @@
-<h2 align="center">👋 👋🏾 Hello! I'm Chaitanya.</h2>
-<p align="center">
-  <a href="https://til.chaitanyasharma.in">TIL</a> •
-  <a href="https://blog.chaitanyasharma.in">Blog</a> •
-  <a href="https://twitter.com/phoenix24">Twitter</a>
-</p>
+### Hi there 👋 👋🏾 I'm Chaitanya
+This is the place where I build stuff, and break things :rofl:
 
-- 🔭 I’m working as Software Engineer, Professional Yak Shaver
-- 🌱 I’m learning more on Observability and better DevOps Practices
-- 💬 Ask me about **Python, Go, Rust, and Git**
-- 📫 How to reach me: [@phoenix24](https://twitter.com/phoenix24) on Twitter
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 💬 &nbsp;Ask me about **Python, Go, Rust, and Git**
+- 📫 &nbsp;How to reach me: [@phoenix24](https://twitter.com/phoenix24) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@phoenix24</a>
+- 👨‍💻 &nbsp;Checkout about my projects at [chaitanyasharma.in](https://www.chaitanyasharma.in/#portfolio)
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
--------
+📕&nbsp;**Latest TIL**
 
-**📝 Latest TIL Posts**
+- tba
+- tba
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+📝&nbsp;**Latest Blog Posts**
+- tba
+- tba
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
--------
+📊&nbsp;**Development Breakdown**
+- tba
+- tba
 
-**📝 Latest Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
--------
-
-📊 **Development Breakdown**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
