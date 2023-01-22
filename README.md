@@ -1,4 +1,4 @@
-### Hi there 👋 👋🏾 I'm Chaitanya
+### Hi there 👋 👋🏾
 This is the place where I build stuff, and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
