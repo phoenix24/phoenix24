@@ -2,7 +2,7 @@
 This is the place where I build stuff, and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 💬 &nbsp;Ask me about **Python, Go, Rust, and Git**
+- 💬 &nbsp;Ask me about **Python, Go, Rust, Java & Git**
 - 📫 &nbsp;How to reach me: [@phoenix24](https://twitter.com/phoenix24) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@phoenix24</a>
 - 👨‍💻 &nbsp;Checkout about my projects at [chaitanyasharma.in](https://www.chaitanyasharma.in/#portfolio)
 - ⚡ Fun fact: Big Fan of the :zap: emoji
